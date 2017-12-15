@@ -20,7 +20,7 @@ namespace MenacingBotNet4._6._1.Modules
             /*builder.AddField("\n\nField1", "test")
                 .AddInlineField("Field2", "test")
                 .AddInlineField("Field3", "test");
-
+                
            
             builder.WithColor(Color.Purple);
 

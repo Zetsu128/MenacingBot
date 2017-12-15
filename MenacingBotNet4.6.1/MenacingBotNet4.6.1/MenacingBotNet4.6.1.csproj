@@ -157,7 +157,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Modules\Ping.cs" />
+    <Compile Include="Modules\Join.cs" />
+    <Compile Include="Modules\Ban.cs" />
+    <Compile Include="Modules\Kick.cs" />
+    <Compile Include="Modules\RemoveBan.cs" />
     <Compile Include="Modules\Skills.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
